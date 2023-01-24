@@ -1,5 +1,4 @@
-"0x11. C - printf"
-"_printf man page"
+."0x11" "_printf man page"
 .SH NAME
 _printf - print data and format
 .SH SYNOPSIS
@@ -28,3 +27,4 @@ In the Example print the value of text with %s give the format of text.
 - prints decimal.
 .IP %i
 - prints integer number.
+
